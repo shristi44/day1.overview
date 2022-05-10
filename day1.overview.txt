@@ -1,0 +1,37 @@
+Robotics is the technology which is used for the advancement of human use/operations in machines.
+
+It reduces the human use in technology advanced areas.
+
+The development of robot involves
+
+mechanical construction
+
+electric circuits
+
+computer programming code
+
+In 1961,the first robot was involved :UNIMATE.
+
+Types of Robot:
+
+1.Pre Programmmed  Robot:
+perform simple task , its a monotasking robot.
+
+2.Humanoid Robots:
+mimics human behaviour excepts physical n biological activities.
+
+3.Autonomous Robots:
+performs operations independent of human supervision
+ex:vaccum cleaner
+
+4.Telecorperated Robots:
+works in extreme weather conditions and mostly used for far away operations.
+ex:drones
+
+5.Augmenting Robots:
+replaces the human capabilities
+ex:robots used for handicapped persons.
+
+COMPONENTS:
+Power supply,Actutators,Electric motors,Sensors.
+ 
